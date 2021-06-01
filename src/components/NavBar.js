@@ -16,7 +16,7 @@ const NavBar = () => {
             <Link to="/signup">SignUp</Link>
           </li>
           <li>
-            <button class="btn red">LogOut</button>
+            <button class=" waves-effect waves-light btn blue">LogOut</button>
           </li>
         </ul>
       </div>
